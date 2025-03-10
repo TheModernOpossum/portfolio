@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e770731b-aa1a-433c-b46d-b36ac804d830" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-single.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog-single.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/form-elements.html" beforeDir="false" afterPath="$PROJECT_DIR$/form-elements.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grid.html" beforeDir="false" afterPath="$PROJECT_DIR$/grid.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/clients/client-01.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/frameworks/client-01.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/clients/client-02.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/frameworks/client-02.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/clients/client-02a.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/frameworks/client-02a.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/clients/client-03.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/frameworks/client-03.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/clients/client-04.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/frameworks/client-04.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/clients/client-05.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/frameworks/client-05.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/clients/client-06.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/frameworks/client-06.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/clients/client-06s.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/frameworks/client-06s.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/video/blossomspk.mov" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/_notes/dwsync.xml" beforeDir="false" afterPath="$PROJECT_DIR$/js/_notes/dwsync.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/fastclick.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/fastclick.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/ie.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/ie.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/imagesloaded.pkgd.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/imagesloaded.pkgd.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery-1.12.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jquery-1.12.1.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.fitvids.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jquery.fitvids.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.isotope.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jquery.isotope.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.magnific-popup/_notes/dwsync.xml" beforeDir="false" afterPath="$PROJECT_DIR$/js/jquery.magnific-popup/_notes/dwsync.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.uniform/_notes/dwsync.xml" beforeDir="false" afterPath="$PROJECT_DIR$/js/jquery.uniform/_notes/dwsync.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.uniform/jquery.uniform.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jquery.uniform/jquery.uniform.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.uniform/uniform.default.css" beforeDir="false" afterPath="$PROJECT_DIR$/js/jquery.uniform/uniform.default.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.validate.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jquery.validate.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/modernizr.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/modernizr.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/nprogress/_notes/dwsync.xml" beforeDir="false" afterPath="$PROJECT_DIR$/js/nprogress/_notes/dwsync.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/nprogress/nprogress.css" beforeDir="false" afterPath="$PROJECT_DIR$/js/nprogress/nprogress.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/nprogress/nprogress.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/nprogress/nprogress.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/socialstream.jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/socialstream.jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/typist.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/typist.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page-full-width.html" beforeDir="false" afterPath="$PROJECT_DIR$/page-full-width.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-item-01.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-item-01.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-item-02.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-item-02.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-item-03.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-item-03.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/send-mail.php" beforeDir="false" afterPath="$PROJECT_DIR$/send-mail.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shortcodes.html" beforeDir="false" afterPath="$PROJECT_DIR$/shortcodes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/typography.html" beforeDir="false" afterPath="$PROJECT_DIR$/typography.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2sccDpFKObL8M2Ri2ZM2QAGY8hv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.portfolio-item-01.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.portfolio-item-02.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.shortcodes.html.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/danielminton/Code/GoDaddy Portfolio&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images/portfolio/single" />
+      <recent name="$PROJECT_DIR$/images/platforms" />
+      <recent name="$PROJECT_DIR$/images/site" />
+      <recent name="$PROJECT_DIR$/images/frameworks" />
+      <recent name="$PROJECT_DIR$/images/clients" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-WS-243.23654.157" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e770731b-aa1a-433c-b46d-b36ac804d830" name="Changes" comment="" />
+      <created>1738758186543</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1738758186543</updated>
+      <workItem from="1738758187605" duration="3207000" />
+      <workItem from="1738916830536" duration="729000" />
+      <workItem from="1738919017078" duration="2597000" />
+      <workItem from="1741318509423" duration="43215000" />
+      <workItem from="1741382759525" duration="8278000" />
+      <workItem from="1741614186671" duration="305000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
